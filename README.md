@@ -22,7 +22,7 @@ ling
 
 ### 1. Portfolio Website
 A personal portfolio website to showcase my projects and skills.  
-**Live demo:** [https://fouziyachakrane.github.io/portfolio](https://fouziyachakrane.github.io/portfolio)
+**Live demo:** [https://fouziyachakrane.github.io/portfolio](https://fouziyachakrane.github.io)
 
 ### 2. Tech Horizons
 Development of an interactive magazine using HTML, CSS, JavaScript, and PHP, with dynamic content integration and a responsive interface.
